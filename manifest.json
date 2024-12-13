@@ -1,0 +1,9 @@
+{
+    "name": "Yes or No",
+    "short_name": "Y/N",
+    "theme_color": "#a3a3a3",
+    "background_color": "#e8e8e8",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
