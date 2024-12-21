@@ -1,9 +1,16 @@
 {
     "name": "Yes or No",
-    "short_name": "Y/N",
+    "short_name": "Kevin",
+    "icons": [
+    {
+      "src": "yes.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+    ],
     "theme_color": "#a3a3a3",
     "background_color": "#e8e8e8",
-    "display": "browser",
+    "display": "standlone",
     "scope": "/",
-    "start_url": "/"
+    "start_url": "index.html"
   }
